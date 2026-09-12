@@ -1,29 +1,17 @@
-# A&M MART MVP
+# A&M MART V2
 
-A mobile-first marketplace demo for **A&M MART — By Aiman & Minal**.
+Upgraded static marketplace MVP.
 
-## Included
-- Home page and navy/gold branding
-- Categories and product search
-- Product cards
-- Cart
-- Cash on Delivery checkout
-- Order creation and tracking status
-- Vendor panel with add-product flow
-- Admin dashboard with orders, GMV and commission
-- Responsive mobile design
-- Browser localStorage for demo persistence
+## New in V2
+- WhatsApp product enquiry
+- Order full cart on WhatsApp
+- Checkout confirmation on WhatsApp
+- Vendor registration via WhatsApp
+- Floating WhatsApp support
+- COD checkout
+- Search, categories, cart, orders
+- Vendor and Admin demo panels
 
-## Run locally
-Open `index.html` in a browser.
+Business contact: 0309-3113980 | aimantraders110@gmail.com
 
-## Replit import
-1. Create a blank HTML/CSS/JS Replit project.
-2. Upload `index.html`, `styles.css`, and `app.js`.
-3. Run / preview the project.
-4. Publish only after testing.
-
-## Important
-This is an MVP/demo. It is **not production-secure** because it uses browser localStorage and has no server-side authentication, payment gateway, real vendor verification, or database.
-
-For production launch, add backend API + database, secure authentication, role-based authorization, vendor verification, real inventory controls, payment gateway, courier integration, server-side validation, backups, audit logs, and legal policies.
+Important: This is still a static demo using browser localStorage. For real production use, add secure backend, database, authentication, vendor verification, payment gateway, courier integration, and legal policies.
