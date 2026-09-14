@@ -1,11 +1,11 @@
 plugins { id 'com.android.application' }
 
 android {
-    namespace 'com.ammart.app'
+    namespace 'com.aimantraders.ammart'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.ammart.app'
+        applicationId 'com.aimantraders.ammart'
         minSdk 23
         targetSdk 35
         versionCode 1
