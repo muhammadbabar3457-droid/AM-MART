@@ -3,6 +3,7 @@
     <application
         android:allowBackup="true"
         android:label="A&amp;M MART"
+        android:icon="@drawable/ic_launcher"
         android:theme="@style/Theme.AMMART"
         android:usesCleartextTraffic="false">
         <activity
